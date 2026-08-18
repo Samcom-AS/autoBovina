@@ -1,0 +1,4 @@
+# The distributable directory is a tested Windows artifact. Do not alter its
+# contents through line-ending normalization or text diffs.
+dist/** -text
+release/** -text

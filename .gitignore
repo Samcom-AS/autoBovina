@@ -1,0 +1,10 @@
+# Local environments and generated intermediate files.
+.venv/
+apps/auto-bovina/.venv/
+__pycache__/
+*.py[cod]
+build/
+apps/auto-bovina/autoBovina.spec
+
+# Keep workstation-specific paths local. The safe settings template is tracked.
+apps/auto-bovina/data/settings.local.txt

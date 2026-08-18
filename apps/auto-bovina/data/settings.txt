@@ -1,0 +1,4 @@
+.\BOVINA PUTTY.xls
+.\putty.exe
+Foaie1
+Date
